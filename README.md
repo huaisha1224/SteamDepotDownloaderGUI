@@ -1,15 +1,7 @@
 # Steam Depot Downloader GUI
 
 <div align="center">
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
-![ttkbootstrap](https://img.shields.io/badge/UI-ttkbootstrap-orange.svg)
-
 **一款用于下载 Steam 游戏历史版本的图形化工具**
-
-[简体中文](#-简介) | [使用教程](使用教程.md) | [视频教程](#-视频教程)
-
 [⬇️ 下载安装](#-安装) | [📖 使用文档](使用教程.md) | [💬 问题反馈](../../issues)
 
 </div>
