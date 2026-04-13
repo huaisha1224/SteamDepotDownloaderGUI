@@ -7,7 +7,7 @@
 ---
 ## 📸 界面预览
 
-![软件界面截图](screenshots/main_interface.png)
+![软件界面截图](src/main_interface.png)
 
 > 简洁直观的图形界面，让版本下载变得简单
 
